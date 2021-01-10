@@ -17,7 +17,7 @@ The non-executable (node) version requires the readline-sync package. You can ge
 ## How to use
 This interpreter has some weird features specifically for it, because why not.
 
-for example, the accumulator starts at -1.2354e, instead if 0 which is what you'd probably think.
+for example, the accumulator starts at -1.2354e, instead of 0 which is what you'd probably think.
 Don't worry, though, you can just use 'Z' to set it to 0.
 
 To open the REPL, just run the program without specifying the file.
