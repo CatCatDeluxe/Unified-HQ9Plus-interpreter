@@ -4,10 +4,13 @@
 
 First release: Jan. 9th, 2020
 
+thanks to [Cortex](https://esolangs.org/wiki/User:Cortex) for creating the language.
+
 This is an interpreter for a joke language called Unified HQ9+ or HQ9+++-\*TCIX13BG2DidcoshwNZLEAR7U.
+I saw it one day and decided to make the one and only (for now) interpreter for it.
 
 You can find the language specifications here:
-[Specifications](https://esolangs.org/wiki/Unified_HQ9%2B)
+["Specifications"](https://esolangs.org/wiki/Unified_HQ9%2B)
 
 The non-executable (node) version requires the readline-sync package. You can get it with `npm i readline-sync`
 
