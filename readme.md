@@ -2,7 +2,7 @@
 
 ## By CatCatDeluxe
 
-First release: Jan. 9th, 2020
+First release: Jan. 9th, 2021
 
 thanks to [Cortex](https://esolangs.org/wiki/User:Cortex) for creating the language.
 
