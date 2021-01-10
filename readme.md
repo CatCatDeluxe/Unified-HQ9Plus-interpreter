@@ -7,6 +7,8 @@ First release: Jan. 9th, 2020
 You can find the language specifications here:
 [Specifications](https://esolangs.org/wiki/Unified_HQ9%2B)
 
+To run this, you need to use `npm i readline-sync`
+
 ## Notes and Issues
 
 - The 2d mode is not yet implemented, this would require a partial rewrite of the parsing code that I'm too lazy to do.
